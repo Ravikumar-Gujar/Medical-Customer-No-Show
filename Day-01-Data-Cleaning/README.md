@@ -82,8 +82,7 @@ Verified the following columns contain valid binary values (0/1):
 ### ✅ 7. Outlier Check
 
 - Checked Age column for invalid values.
-- Removed invalid record(s), if present.
-
+- Removed invalid record (Age -1)
 ---
 
 ## 📁 Files Included
