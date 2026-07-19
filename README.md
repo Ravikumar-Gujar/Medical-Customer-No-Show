@@ -34,21 +34,6 @@ This repository contains all the daily tasks completed during my internship. Eac
 
 ---
 
-## 📂 Repository Structure
-
-```text
-Data-Analyst-Internship/
-│
-├── README.md
-│
-└── Day-01-Data-Cleaning/
-    ├── README.md
-    ├── data/
-    └── screenshots/
-```
-
----
-
 ## 🎯 Learning Goals
 
 Through this internship, I aim to:
