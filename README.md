@@ -26,9 +26,11 @@ This repository contains all the daily tasks completed during my internship. Eac
 
 ## 📅 Internship Progress
 
-| Day | Task | Status |
-|-----|------|--------|
-| Day 01 | Data Cleaning and Preprocessing | ✅ Completed |
+| Day    | Task                               | Status      |
+| ------ | ---------------------------------- | ----------- |
+| Day 01 | Data Cleaning & Preprocessing      | ✅ Completed |
+| Day 02 | Medical Customer No-Show Dashboard | ✅ Completed |
+| Day 03 | Blinkit Sales Dashboard            | ✅ Completed |
 
 ---
 
