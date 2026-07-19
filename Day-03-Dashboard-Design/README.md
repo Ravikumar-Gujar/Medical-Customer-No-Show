@@ -23,4 +23,5 @@ This Power BI dashboard analyzes Blinkit's sales performance using multiple data
 
 ## 📷 Dashboard Preview
 
-(Add the Dashboard.png image below after committing the README.)
+<img width="1168" height="658" alt="dashboard Sc" src="https://github.com/user-attachments/assets/bbd2d888-d4df-4ef5-970f-dc833c031c71" />
+
