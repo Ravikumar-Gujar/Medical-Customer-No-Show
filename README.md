@@ -32,6 +32,20 @@ This repository contains all the daily tasks completed during my internship. Eac
 | Day 02 | Medical Customer No-Show Dashboard | ✅ Completed |
 | Day 03 | Blinkit Sales Dashboard            | ✅ Completed |
 
+## 📅 Day 4 – SQL for Data Analysis
+
+### Skills Learned
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- Aggregate Functions (SUM, COUNT, AVG)
+- INNER JOIN
+- LEFT JOIN
+- Subqueries
+- Views
+- Indexes
+
 ---
 
 ## 🎯 Learning Goals
