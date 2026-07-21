@@ -19,8 +19,8 @@ This repository contains all the daily tasks completed during my internship. Eac
 
 - Microsoft Excel
 - Python (Pandas) *(Coming Soon)*
-- SQL *(Coming Soon)*
-- Power BI *(Coming Soon)*
+- SQL 
+- Power BI 
 
 ---
 
